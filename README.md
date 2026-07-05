@@ -32,5 +32,10 @@ My daily practice questions
 | [0520-detect-capital](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0796-rotate-string](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0796-rotate-string) |
 | [1332-remove-palindromic-subsequences](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1332-remove-palindromic-subsequences) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
