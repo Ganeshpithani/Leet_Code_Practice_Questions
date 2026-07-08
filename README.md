@@ -8,6 +8,7 @@ My daily practice questions
 | ------- |
 | [0189-rotate-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0189-rotate-array) |
 | [0496-next-greater-element-i](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0496-next-greater-element-i) |
+| [0704-binary-search](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0867-transpose-matrix) |
 | [0908-smallest-range-i](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0908-smallest-range-i) |
 ## Math
@@ -53,4 +54,8 @@ My daily practice questions
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0496-next-greater-element-i) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
