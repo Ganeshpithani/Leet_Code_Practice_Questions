@@ -43,6 +43,7 @@ My daily practice questions
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0796-rotate-string](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0844-backspace-string-compare) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1332-remove-palindromic-subsequences](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1332-remove-palindromic-subsequences) |
 ## String Matching
 |  |
@@ -74,4 +75,9 @@ My daily practice questions
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1122-relative-sort-array) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1221-split-a-string-in-balanced-strings) |
+## Greedy
+|  |
+| ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1221-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
