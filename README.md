@@ -8,6 +8,7 @@ My daily practice questions
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0704-binary-search) |
@@ -61,6 +62,7 @@ My daily practice questions
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0496-next-greater-element-i) |
 | [1122-relative-sort-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1122-relative-sort-array) |
 ## Stack
@@ -100,4 +102,8 @@ My daily practice questions
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
