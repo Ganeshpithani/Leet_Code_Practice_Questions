@@ -30,6 +30,7 @@ My daily practice questions
 | [0189-rotate-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0844-backspace-string-compare](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0844-backspace-string-compare) |
 | [1332-remove-palindromic-subsequences](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1332-remove-palindromic-subsequences) |
@@ -49,6 +50,7 @@ My daily practice questions
 | ------- |
 | [0392-is-subsequence](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0520-detect-capital) |
+| [0541-reverse-string-ii](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0796-rotate-string](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0796-rotate-string) |
