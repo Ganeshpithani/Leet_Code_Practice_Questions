@@ -48,6 +48,7 @@ My daily practice questions
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0541-reverse-string-ii) |
@@ -68,6 +69,7 @@ My daily practice questions
 | ------- |
 | [0202-happy-number](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0219-contains-duplicate-ii) |
+| [0389-find-the-difference](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0496-next-greater-element-i) |
 | [1122-relative-sort-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1122-relative-sort-array) |
 ## Stack
@@ -88,6 +90,7 @@ My daily practice questions
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0389-find-the-difference) |
 | [1122-relative-sort-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1122-relative-sort-array) |
 ## Counting Sort
 |  |
@@ -111,4 +114,8 @@ My daily practice questions
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0219-contains-duplicate-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
