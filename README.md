@@ -24,6 +24,7 @@ My daily practice questions
 | ------- |
 | [0189-rotate-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0202-happy-number) |
+| [0415-add-strings](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0908-smallest-range-i](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0908-smallest-range-i) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -44,6 +45,7 @@ My daily practice questions
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0867-transpose-matrix) |
@@ -53,6 +55,7 @@ My daily practice questions
 | ------- |
 | [0389-find-the-difference](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0551-student-attendance-record-i) |
