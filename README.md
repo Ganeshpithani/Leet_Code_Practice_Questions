@@ -17,6 +17,7 @@ My daily practice questions
 | [0704-binary-search](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0867-transpose-matrix) |
 | [0908-smallest-range-i](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0908-smallest-range-i) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1122-relative-sort-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1929-concatenation-of-array) |
@@ -102,6 +103,7 @@ My daily practice questions
 | [0389-find-the-difference](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1122-relative-sort-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
@@ -114,6 +116,7 @@ My daily practice questions
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0561-array-partition) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Dynamic Programming
 |  |
