@@ -22,6 +22,7 @@ My daily practice questions
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3731-find-missing-elements](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -82,6 +83,7 @@ My daily practice questions
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0496-next-greater-element-i) |
 | [1122-relative-sort-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1122-relative-sort-array) |
+| [3731-find-missing-elements](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
 | ------- |
@@ -106,6 +108,7 @@ My daily practice questions
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1122-relative-sort-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3731-find-missing-elements](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
 | ------- |
