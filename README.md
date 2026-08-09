@@ -21,6 +21,7 @@ My daily practice questions
 | [1122-relative-sort-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1816-truncate-sentence](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3731-find-missing-elements](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/3731-find-missing-elements) |
@@ -73,6 +74,7 @@ My daily practice questions
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1332-remove-palindromic-subsequences](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1332-remove-palindromic-subsequences) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1816-truncate-sentence](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1816-truncate-sentence) |
 ## String Matching
 |  |
 | ------- |
