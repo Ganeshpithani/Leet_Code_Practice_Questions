@@ -24,6 +24,7 @@ My daily practice questions
 | [1816-truncate-sentence](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -89,6 +90,7 @@ My daily practice questions
 | [0496-next-greater-element-i](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0496-next-greater-element-i) |
 | [1122-relative-sort-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1122-relative-sort-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
@@ -114,6 +116,7 @@ My daily practice questions
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1122-relative-sort-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
