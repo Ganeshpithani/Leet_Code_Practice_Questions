@@ -18,6 +18,7 @@ My daily practice questions
 | [0804-unique-morse-code-words](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0804-unique-morse-code-words) |
 | [0867-transpose-matrix](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0867-transpose-matrix) |
 | [0908-smallest-range-i](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0908-smallest-range-i) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1122-relative-sort-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -74,6 +75,7 @@ My daily practice questions
 | [0796-rotate-string](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0804-unique-morse-code-words) |
 | [0844-backspace-string-compare](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0844-backspace-string-compare) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
@@ -162,4 +164,8 @@ My daily practice questions
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0944-delete-columns-to-make-sorted) |
 <!---LeetCode Topics End-->
