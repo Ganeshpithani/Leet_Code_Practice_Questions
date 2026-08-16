@@ -20,6 +20,7 @@ My daily practice questions
 | [0908-smallest-range-i](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0908-smallest-range-i) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1051-height-checker](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -121,6 +122,7 @@ My daily practice questions
 | [0561-array-partition](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1051-height-checker](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -129,6 +131,7 @@ My daily practice questions
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0561-array-partition) |
+| [1051-height-checker](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1122-relative-sort-array) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -168,4 +171,8 @@ My daily practice questions
 |  |
 | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0944-delete-columns-to-make-sorted) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
