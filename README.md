@@ -29,6 +29,7 @@ My daily practice questions
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -63,6 +64,7 @@ My daily practice questions
 | [0844-backspace-string-compare](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1929-concatenation-of-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## String
 |  |
 | ------- |
