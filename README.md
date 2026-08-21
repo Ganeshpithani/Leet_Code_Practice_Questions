@@ -80,6 +80,7 @@ My daily practice questions
 | [0804-unique-morse-code-words](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0804-unique-morse-code-words) |
 | [0844-backspace-string-compare](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0844-backspace-string-compare) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0944-delete-columns-to-make-sorted) |
+| [1021-remove-outermost-parentheses](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
@@ -110,6 +111,7 @@ My daily practice questions
 | [0496-next-greater-element-i](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
@@ -179,4 +181,8 @@ My daily practice questions
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1051-height-checker) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
