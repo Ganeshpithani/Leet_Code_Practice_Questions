@@ -41,6 +41,7 @@ My daily practice questions
 | [0908-smallest-range-i](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0908-smallest-range-i) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
 |  |
 | ------- |
