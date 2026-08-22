@@ -186,4 +186,8 @@ My daily practice questions
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1021-remove-outermost-parentheses) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
