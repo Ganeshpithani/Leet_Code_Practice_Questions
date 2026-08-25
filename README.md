@@ -51,6 +51,7 @@ My daily practice questions
 | [0392-is-subsequence](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0696-count-binary-substrings](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0696-count-binary-substrings) |
 | [0844-backspace-string-compare](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0844-backspace-string-compare) |
 | [1332-remove-palindromic-subsequences](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1332-remove-palindromic-subsequences) |
 ## Matrix
@@ -78,6 +79,7 @@ My daily practice questions
 | [0551-student-attendance-record-i](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0657-robot-return-to-origin) |
+| [0696-count-binary-substrings](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0696-count-binary-substrings) |
 | [0796-rotate-string](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0804-unique-morse-code-words) |
 | [0844-backspace-string-compare](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0844-backspace-string-compare) |
