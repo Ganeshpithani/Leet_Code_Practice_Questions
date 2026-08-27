@@ -9,6 +9,7 @@ My daily practice questions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0219-contains-duplicate-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0561-array-partition) |
@@ -48,6 +49,7 @@ My daily practice questions
 | ------- |
 | [0189-rotate-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0202-happy-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -101,6 +103,7 @@ My daily practice questions
 | ------- |
 | [0202-happy-number](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0219-contains-duplicate-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0496-next-greater-element-i) |
@@ -125,10 +128,12 @@ My daily practice questions
 ## Binary Search
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0628-maximum-product-of-three-numbers) |
