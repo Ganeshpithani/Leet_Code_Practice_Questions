@@ -23,6 +23,7 @@ My daily practice questions
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1122-relative-sort-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -57,6 +58,7 @@ My daily practice questions
 | [0696-count-binary-substrings](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0696-count-binary-substrings) |
 | [0844-backspace-string-compare](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0844-backspace-string-compare) |
 | [1332-remove-palindromic-subsequences](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1332-remove-palindromic-subsequences) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2562-find-the-array-concatenation-value](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/2562-find-the-array-concatenation-value) |
 ## Matrix
 |  |
@@ -133,6 +135,7 @@ My daily practice questions
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0704-binary-search) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -143,6 +146,7 @@ My daily practice questions
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1122-relative-sort-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/3731-find-missing-elements) |
