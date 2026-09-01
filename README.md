@@ -14,6 +14,7 @@ My daily practice questions
 | [0496-next-greater-element-i](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0704-binary-search) |
 | [0804-unique-morse-code-words](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0804-unique-morse-code-words) |
@@ -177,6 +178,7 @@ My daily practice questions
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0643-maximum-average-subarray-i) |
 ## Bit Manipulation
 |  |
 | ------- |
