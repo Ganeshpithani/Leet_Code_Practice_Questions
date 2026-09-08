@@ -35,6 +35,7 @@ My daily practice questions
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2562-find-the-array-concatenation-value](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/2562-find-the-array-concatenation-value) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/3731-find-missing-elements) |
@@ -119,6 +120,7 @@ My daily practice questions
 | [1122-relative-sort-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1122-relative-sort-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/3731-find-missing-elements) |
 ## Stack
@@ -184,11 +186,13 @@ My daily practice questions
 | [0643-maximum-average-subarray-i](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0643-maximum-average-subarray-i) |
 | [1652-defuse-the-bomb](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1652-defuse-the-bomb) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0389-find-the-difference) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/2932-maximum-strong-pair-xor-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -213,4 +217,8 @@ My daily practice questions
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1757-recyclable-and-low-fat-products) |
+## Trie
+|  |
+| ------- |
+| [2932-maximum-strong-pair-xor-i](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/2932-maximum-strong-pair-xor-i) |
 <!---LeetCode Topics End-->
