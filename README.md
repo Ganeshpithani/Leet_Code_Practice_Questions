@@ -6,6 +6,7 @@ My daily practice questions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0189-rotate-array) |
@@ -112,6 +113,7 @@ My daily practice questions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
