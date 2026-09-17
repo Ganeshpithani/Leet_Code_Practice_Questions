@@ -7,6 +7,7 @@ My daily practice questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0015-3sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0189-rotate-array) |
@@ -55,6 +56,7 @@ My daily practice questions
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0202-happy-number) |
@@ -149,6 +151,7 @@ My daily practice questions
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0015-3sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0561-array-partition) |
