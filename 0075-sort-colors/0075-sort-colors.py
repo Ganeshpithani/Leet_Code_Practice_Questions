@@ -15,6 +15,7 @@ class Solution:
             elif nums[mid]==1:
                 mid+=1
             else:
-                nums[mid],nums[high]=nums[high],nums[mid]
+                nums[mid]=nums[high]
+                nums[high]=2
                 high-=1
         return nums
