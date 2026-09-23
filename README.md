@@ -13,6 +13,7 @@ My daily practice questions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0496-next-greater-element-i) |
@@ -62,6 +63,7 @@ My daily practice questions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0541-reverse-string-ii) |
