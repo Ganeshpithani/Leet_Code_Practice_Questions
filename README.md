@@ -7,6 +7,7 @@ My daily practice questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -58,6 +59,7 @@ My daily practice questions
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -180,6 +182,7 @@ My daily practice questions
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/0561-array-partition) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Ganeshpithani/Leet_Code_Practice_Questions/tree/master/1221-split-a-string-in-balanced-strings) |
